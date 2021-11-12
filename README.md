@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a fullstack software engineer from SriLanka
-- 🔭 Working on multiple frontend and backend project using React , React Native 
+- 🔭 Working on multiple frontend and backend project using React , React Native or any other platform like magento, wordress, craft cms
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
